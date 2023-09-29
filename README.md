@@ -4,8 +4,9 @@ The project aims to classify fashion items from popular dataset Fashion MNIST. U
 
 ## Dataset View
 
-<img width="363" alt="Screenshot 2023-09-29 132416" src="https://github.com/engineer-sonali/Fashion-Recognizer/assets/71033672/11dae830-7454-4487-a01f-b11b8a4efb20">
+<img width="363" alt="Screenshot 2023-09-29 132416" src="https://github.com/engineer-sonali/Fashion-Recognizer/assets/71033672/acd9ee86-8624-4ecc-96bc-3ae40ca317f3">
 
 ## Model
 
-<img width="396" alt="Fashion" src="https://github.com/engineer-sonali/Fashion-Recognizer/assets/71033672/47fc0297-f8e3-4df3-945d-771ef8dd5e89">
+<img width="396" alt="Model" src="https://github.com/engineer-sonali/Fashion-Recognizer/assets/71033672/6049c7e0-de73-4fab-af72-80b69bc91f85">
+
