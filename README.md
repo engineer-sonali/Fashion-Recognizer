@@ -1,6 +1,6 @@
 # Fashion-Recognizer
 
-The project aims to classify fashion items from popular dataset Fashion MNIST. Using the power of deep learning, the model can identify various clothing items and accessories with an accuracy of 99.94% and loss of 0.0027. 
+A Fashion Recognizer aims to classify different types of fashion items, such as clothing, shoes, and accessories from popular dataset Fashion MNIST. Using the power of deep learning, the model can identify various clothing items and accessories with an accuracy of 99.94% and loss of 0.0027. 
 
 ## Dataset View
 
